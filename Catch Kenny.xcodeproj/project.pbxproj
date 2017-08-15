@@ -14,6 +14,7 @@
 		D27FD34B1F42516300550606 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D27FD3491F42516300550606 /* LaunchScreen.storyboard */; };
 		D27FD3561F42516300550606 /* Catch_KennyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27FD3551F42516300550606 /* Catch_KennyTests.swift */; };
 		D27FD3611F42516300550606 /* Catch_KennyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27FD3601F42516300550606 /* Catch_KennyUITests.swift */; };
+		D27FD3711F4253CF00550606 /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = D27FD3701F4253CF00550606 /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D27FD35C1F42516300550606 /* Catch KennyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Catch KennyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D27FD3601F42516300550606 /* Catch_KennyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catch_KennyUITests.swift; sourceTree = "<group>"; };
 		D27FD3621F42516300550606 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D27FD3701F4253CF00550606 /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		D27FD33F1F42516200550606 /* Catch Kenny */ = {
 			isa = PBXGroup;
 			children = (
+				D27FD3701F4253CF00550606 /* kenny.png */,
 				D27FD3401F42516200550606 /* AppDelegate.swift */,
 				D27FD3421F42516200550606 /* ViewController.swift */,
 				D27FD3441F42516200550606 /* Main.storyboard */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D27FD34B1F42516300550606 /* LaunchScreen.storyboard in Resources */,
+				D27FD3711F4253CF00550606 /* kenny.png in Resources */,
 				D27FD3481F42516300550606 /* Assets.xcassets in Resources */,
 				D27FD3461F42516200550606 /* Main.storyboard in Resources */,
 			);
